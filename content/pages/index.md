@@ -63,7 +63,7 @@ sections:
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Learn
             url: /features
             style: secondary
   - type: blog_feed_section
